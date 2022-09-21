@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "type": "lua",
+      "request": "launch",
+      "name": "Run queue.lua",
+      "program": "${workspaceFolder}/queue.lua",
+      "stopOnEntry": false
+    }
+  ],
+  "version": "0.2.0",
+}
